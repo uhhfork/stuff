@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Minecraft",
+  "previewText": "Minecraft",
+  "main": {
+      "ABCGintoNord-ExtraBold": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "ggsans-Bold": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "ggsans-BoldItalic": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "ggsans-ExtraBold": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "ggsans-ExtraBoldItalic": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "ggsans-Medium": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "ggsans-MediumItalic": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "ggsans-Normal": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "ggsans-NormalItalic": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "ggsans-Semibold": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "ggsans-SemiboldItalic": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "NotoSans-Bold": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "NotoSans-ExtraBold": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "NotoSans-Medium": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "NotoSans-Normal": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "NotoSans-NormalItalic": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "NotoSans-Semibold": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf",
+      "ggmono-Normal": "https://github.com/uhhfork/stuff/raw/refs/heads/main/Minecraft.ttf"
+  }
+}
